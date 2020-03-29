@@ -1,8 +1,6 @@
 Z390 AORUS PRO WIFI HACKINTOSH
 
-# Hackintosh Catalina(>=10.15.2) Installation Guide for Gigabyte Z390 Aorus Pro WiFi
-
-![System Info](images/system.png)
+# Hackintosh Reference Guide for Gigabyte Z390 Aorus Pro WiFi (Dual-Boot W7/Catalina)
 
 ### Hardware
 
