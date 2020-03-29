@@ -1,6 +1,6 @@
 Z390 AORUS PRO WIFI HACKINTOSH
 
-# Hackintosh Reference Guide for Gigabyte Z390 Aorus Pro WiFi (Dual-Boot W7/Catalina)
+# Hackintosh Reference Guide - Gigabyte Z390 Aorus Pro WiFi (Dual-Boot W7/Catalina)
 
 ### Hardware
 
